@@ -8,6 +8,9 @@ It is released under both the GPL and MIT license to do with what you will.
 Playable Version: 
 http://cykod.github.com/AlienInvasion/
 
+Updated URL Testing but not real
+http://cykod.github.com/AlienInvasion/testing
+
 Bit.ly link for mobile: 
 http://bit.ly/html5-invasion
 
